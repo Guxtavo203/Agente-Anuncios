@@ -1,39 +1,158 @@
 [
-  {"url": "https://agenciagram.com.br/blog/como-ganhar-dinheiro-instagram-2026", "date_sent": "2026-05-22"},
-  {"url": "https://rendadigitalpro.com.br/como-ganhar-dinheiro-com-instagram-em-2026/", "date_sent": "2026-05-22"},
-  {"url": "https://mindconsulting.com.br/2026/04/vendas-instagram-empresario-2026-funciona/", "date_sent": "2026-05-22"},
-  {"url": "https://talesaugusto.biz/tecnologia/instagram-negocio-lucrativo-2026-comecando-zero/", "date_sent": "2026-05-22"},
-  {"url": "https://instaplace.com.br/blog/como-anunciar-no-instagram/", "date_sent": "2026-05-22"},
-  {"url": "https://hotmart.com/pt-br/blog/como-anunciar-no-instagram", "date_sent": "2026-05-22"},
-  {"url": "https://www.nuvemshop.com.br/blog/como-vender-pelo-instagram/", "date_sent": "2026-05-22"},
-  {"url": "https://www.hostinger.com/pt/tutoriais/como-ganhar-dinheiro-no-instagram", "date_sent": "2026-05-22"},
-  {"url": "https://www.spanishdict.com/translate/anuncio", "date_sent": "2026-05-23"},
-  {"url": "https://www.wordreference.com/esen/anuncio", "date_sent": "2026-05-23"},
-  {"url": "https://www.collinsdictionary.com/dictionary/spanish-english/anuncio", "date_sent": "2026-05-23"},
-  {"url": "https://www.youtube.com/watch?v=lQL7pfEJtBw", "date_sent": "2026-05-23"},
-  {"url": "https://dictionary.cambridge.org/us/dictionary/spanish-english/anuncio", "date_sent": "2026-05-23"},
-  {"url": "https://es.wikipedia.org/wiki/Anuncio", "date_sent": "2026-05-23"},
-  {"url": "https://www.canva.com/es_es/crear/anuncios/?msockid=1304fd8abbf76a451002eae8ba756b40", "date_sent": "2026-05-23"},
-  {"url": "https://www.facebook.com/", "date_sent": "2026-05-23"},
-  {"url": "https://www.youtube.com/", "date_sent": "2026-05-24"},
-  {"url": "https://vimeo.com/watch?msockid=1410cac8e7cd6d470b3dddabe6606cd4", "date_sent": "2026-05-24"},
-  {"url": "https://www.bing.com/videos", "date_sent": "2026-05-24"},
-  {"url": "https://www.tiktok.com/en/", "date_sent": "2026-05-24"},
-  {"url": "https://www.pexels.com/videos/", "date_sent": "2026-05-24"},
-  {"url": "https://www.google.com/videohp?ie=UTF-8", "date_sent": "2026-05-24"},
-  {"url": "https://www.primevideo.com/collection/IncludedwithPrime", "date_sent": "2026-05-24"},
-  {"url": "https://www.amazon.com/gp/video/storefront/", "date_sent": "2026-05-24"},
-  {"url": "https://www.iasonline.org/", "date_sent": "2026-05-25"},
-  {"url": "https://www.ias.org.ar/", "date_sent": "2026-05-25"},
-  {"url": "https://www.ias.edu/", "date_sent": "2026-05-25"},
-  {"url": "https://www.iasplus.com/en/standards/ias", "date_sent": "2026-05-25"},
-  {"url": "https://en.m.wikipedia.org/wiki/Indian_Administrative_Service", "date_sent": "2026-05-25"},
-  {"url": "https://www.siderurgia.org.ar/soldadura.php", "date_sent": "2026-05-25"},
-  {"url": "https://www.ias.lk/", "date_sent": "2026-05-25"},
-  {"url": "https://theias.org/", "date_sent": "2026-05-25"},
-  {"url": "https://www.instagram.com/reel/DWALgBdp72P/", "date_sent": "2026-05-27"},
-  {"url": "https://www.instagram.com/reel/DSa68NVk0NR/", "date_sent": "2026-05-27"},
-  {"url": "https://www.instagram.com/reel/DTpC24MFfri/", "date_sent": "2026-05-27"},
-  {"url": "https://www.instagram.com/reel/CrOFgpvrJ0q/", "date_sent": "2026-05-27"},
-  {"url": "https://www.instagram.com/reel/DPkC9wZEpHi/", "date_sent": "2026-05-27"}
+  {
+    "url": "https://agenciagram.com.br/blog/como-ganhar-dinheiro-instagram-2026",
+    "date_sent": "2026-05-22"
+  },
+  {
+    "url": "https://rendadigitalpro.com.br/como-ganhar-dinheiro-com-instagram-em-2026/",
+    "date_sent": "2026-05-22"
+  },
+  {
+    "url": "https://mindconsulting.com.br/2026/04/vendas-instagram-empresario-2026-funciona/",
+    "date_sent": "2026-05-22"
+  },
+  {
+    "url": "https://talesaugusto.biz/tecnologia/instagram-negocio-lucrativo-2026-comecando-zero/",
+    "date_sent": "2026-05-22"
+  },
+  {
+    "url": "https://instaplace.com.br/blog/como-anunciar-no-instagram/",
+    "date_sent": "2026-05-22"
+  },
+  {
+    "url": "https://hotmart.com/pt-br/blog/como-anunciar-no-instagram",
+    "date_sent": "2026-05-22"
+  },
+  {
+    "url": "https://www.nuvemshop.com.br/blog/como-vender-pelo-instagram/",
+    "date_sent": "2026-05-22"
+  },
+  {
+    "url": "https://www.hostinger.com/pt/tutoriais/como-ganhar-dinheiro-no-instagram",
+    "date_sent": "2026-05-22"
+  },
+  {
+    "url": "https://www.spanishdict.com/translate/anuncio",
+    "date_sent": "2026-05-23"
+  },
+  {
+    "url": "https://www.wordreference.com/esen/anuncio",
+    "date_sent": "2026-05-23"
+  },
+  {
+    "url": "https://www.collinsdictionary.com/dictionary/spanish-english/anuncio",
+    "date_sent": "2026-05-23"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=lQL7pfEJtBw",
+    "date_sent": "2026-05-23"
+  },
+  {
+    "url": "https://dictionary.cambridge.org/us/dictionary/spanish-english/anuncio",
+    "date_sent": "2026-05-23"
+  },
+  {
+    "url": "https://es.wikipedia.org/wiki/Anuncio",
+    "date_sent": "2026-05-23"
+  },
+  {
+    "url": "https://www.canva.com/es_es/crear/anuncios/?msockid=1304fd8abbf76a451002eae8ba756b40",
+    "date_sent": "2026-05-23"
+  },
+  {
+    "url": "https://www.facebook.com/",
+    "date_sent": "2026-05-23"
+  },
+  {
+    "url": "https://www.youtube.com/",
+    "date_sent": "2026-05-24"
+  },
+  {
+    "url": "https://vimeo.com/watch?msockid=1410cac8e7cd6d470b3dddabe6606cd4",
+    "date_sent": "2026-05-24"
+  },
+  {
+    "url": "https://www.bing.com/videos",
+    "date_sent": "2026-05-24"
+  },
+  {
+    "url": "https://www.tiktok.com/en/",
+    "date_sent": "2026-05-24"
+  },
+  {
+    "url": "https://www.pexels.com/videos/",
+    "date_sent": "2026-05-24"
+  },
+  {
+    "url": "https://www.google.com/videohp?ie=UTF-8",
+    "date_sent": "2026-05-24"
+  },
+  {
+    "url": "https://www.primevideo.com/collection/IncludedwithPrime",
+    "date_sent": "2026-05-24"
+  },
+  {
+    "url": "https://www.amazon.com/gp/video/storefront/",
+    "date_sent": "2026-05-24"
+  },
+  {
+    "url": "https://www.iasonline.org/",
+    "date_sent": "2026-05-25"
+  },
+  {
+    "url": "https://www.ias.org.ar/",
+    "date_sent": "2026-05-25"
+  },
+  {
+    "url": "https://www.ias.edu/",
+    "date_sent": "2026-05-25"
+  },
+  {
+    "url": "https://www.iasplus.com/en/standards/ias",
+    "date_sent": "2026-05-25"
+  },
+  {
+    "url": "https://en.m.wikipedia.org/wiki/Indian_Administrative_Service",
+    "date_sent": "2026-05-25"
+  },
+  {
+    "url": "https://www.siderurgia.org.ar/soldadura.php",
+    "date_sent": "2026-05-25"
+  },
+  {
+    "url": "https://www.ias.lk/",
+    "date_sent": "2026-05-25"
+  },
+  {
+    "url": "https://theias.org/",
+    "date_sent": "2026-05-25"
+  },
+  {
+    "url": "https://www.instagram.com/reel/DWALgBdp72P/",
+    "date_sent": "2026-05-27"
+  },
+  {
+    "url": "https://www.instagram.com/reel/DSa68NVk0NR/",
+    "date_sent": "2026-05-27"
+  },
+  {
+    "url": "https://www.instagram.com/reel/DTpC24MFfri/",
+    "date_sent": "2026-05-27"
+  },
+  {
+    "url": "https://www.instagram.com/reel/CrOFgpvrJ0q/",
+    "date_sent": "2026-05-27"
+  },
+  {
+    "url": "https://www.instagram.com/reel/DPkC9wZEpHi/",
+    "date_sent": "2026-05-27"
+  },
+  {
+    "url": "https://vimeo.com/watch?msockid=2ca766317e216dcb003471567fc56caf",
+    "date_sent": "2026-05-28"
+  },
+  {
+    "url": "https://tubitv.com/welcome",
+    "date_sent": "2026-05-28"
+  }
 ]
