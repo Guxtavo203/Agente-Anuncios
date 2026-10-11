@@ -1530,5 +1530,13 @@
   {
     "url": "https://www.wrdw.com/weather/radar/",
     "date_sent": "2026-10-10"
+  },
+  {
+    "url": "https://www.google.com/videohp?safe=active",
+    "date_sent": "2026-10-11"
+  },
+  {
+    "url": "https://www.bing.com/videos/riverview/relatedvideo?q=video",
+    "date_sent": "2026-10-11"
   }
 ]
